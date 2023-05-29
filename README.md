@@ -25,6 +25,12 @@ Front-end Developer
   <!-- github -->
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
+  <!-- figma -->
+  <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://static.figma.com/app/icon/1/touch-180.png" alt="Figma" width="40" height="40"/></a>
+</p>
+  <!-- netlify -->
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.netlify.com/icon.svg" alt="Netlify" width="40" height="40"/></a>
+</p>
 
 
 
