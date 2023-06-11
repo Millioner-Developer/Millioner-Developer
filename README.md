@@ -36,9 +36,9 @@ Front-end Junior Developer
 
 <p align="left">
 <!-- facebook -->
-<a href="https://www.facebook.com/profile.php?id=100087617301550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087617301550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" /></a>
 <!-- instagram -->
-<a href="https://www.instagram.com/_Mr_Web_Dev_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_Mr_Web_Dev_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>
 <!-- telegram -->
 <a href="https://telegram.org/MrWebDev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" height="30" width="30" /></a>
 </p>
