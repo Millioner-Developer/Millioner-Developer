@@ -2,7 +2,7 @@
 
 Front-end Junior Developer
 
-[💼 Portfolio](https://qudratulloh.netlify.app/) | [💬 Telegram](https://t.me/MrWebDev) | 📧 webdasturchi2223@gmail.com
+[💼 Portfolio](https://qudratulloh.vercel.app/) | [💬 Telegram](https://t.me/MrWebDev) | 📧 webdasturchi2223@gmail.com
 
 
 ## Technology
@@ -20,6 +20,8 @@ Front-end Junior Developer
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <!-- js -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <!-- reactjs -->
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="40" height="40"/></a>
   <!-- bem -->
   <a href="https://ru.bem.info/" target="_blank" rel="noreferrer"><img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" alt="BEM" width="40" height="40"/></a>
   <!-- github -->
@@ -28,6 +30,8 @@ Front-end Junior Developer
   <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://static.figma.com/app/icon/1/touch-180.png" alt="Figma" width="40" height="40"/></a>
   <!-- netlify -->
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.netlify.com/icon.svg" alt="Netlify" width="40" height="40"/></a>
+  <!-- netlify -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png" alt="Vercel" width="40" height="40"/></a>
 </p>
 
 
@@ -38,5 +42,7 @@ Front-end Junior Developer
 <!-- instagram -->
 <a href="https://www.instagram.com/qudratullohuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>
 <!-- telegram -->
-<a href="https://telegram.org/MrWebDev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" height="30" width="30" /></a>
+<a href="https://t.me/MrWebDev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" height="30" width="30" /></a>
+<!-- site -->
+<a href="https://qudratulloh.vercel.app" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Globe_icon_2.svg/2048px-Globe_icon_2.svg.png" alt="Site" height="30" width="30" /></a>
 </p>
